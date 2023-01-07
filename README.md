@@ -57,10 +57,6 @@ assign Borrow=(~A&(B ^ C) | (B & C));
 assign Diff=(A ^ B ^ C);
 endmodule.
 
-
-
-## Output:
-
 ## Truthtable
 
 HALF SUBTRACTOR truth table:
